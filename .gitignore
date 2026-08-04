@@ -1,0 +1,16 @@
+# Ambiente virtual Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Dados reais da empresa (planilhas de compradores e atas geradas)
+Base Dados - Compradores/
+Base Dados Completa - Geração da Ata/
+Ata Final/
+*.xlsx
+*.docx
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
